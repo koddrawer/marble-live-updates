@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "bundle": "game-1.0.0.zip",
-  "sha256": "7678ae1eb96ab87feeed2847b2561c8aa3d5c035f943397b140b6423699d8ecd",
-  "notes": "Bản đầu tiên",
-  "date": "2026-10-21T09:13:48.696Z"
+  "version": "1.1.0",
+  "bundle": "game-1.1.0.zip",
+  "sha256": "78f5409bc4cd5f41fe5d8055b297c907266b6e1feeed32a749fd6d5b0a550e0f",
+  "notes": "Tháp 5 tầng (Hang Băng, Ngã Ba, Dung Nham, Rồng Lửa, Đấu Trường), cân bằng quà, giao diện tiếng Anh",
+  "date": "2026-10-21T11:00:09.312Z"
 }
