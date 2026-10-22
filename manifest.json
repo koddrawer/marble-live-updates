@@ -1,9 +1,9 @@
 {
-  "version": "1.4.0",
-  "bundle": "game-1.4.0.zip",
-  "sha256": "3dab8d3c9921f89d40130f6e2ff90f62e76951792c1abd7558d8eb64c7a9252a",
-  "notes": "Bảng điều khiển cập nhật nóng cùng game; app tự cập nhật phần lõi",
-  "date": "2026-10-22T03:41:58.520Z",
+  "version": "1.5.0",
+  "bundle": "game-1.5.0.zip",
+  "sha256": "f4d6bbc08b30859f21c018e8a0224be0317aefe87536992f7970acb9d62a7f28",
+  "notes": "Giao diện gọn: Top 3 một hàng, đồng hồ + tầng, thanh Hype mỏng, 1 dòng hướng dẫn xoay vòng",
+  "date": "2026-10-22T04:07:50.696Z",
   "app": {
     "version": "1.4.0",
     "core": "core-1.4.0.zip",
