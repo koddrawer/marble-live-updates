@@ -27,6 +27,7 @@ Sửa `manifest.json` ngay trên GitHub (biểu tượng bút chì) và giữ ng
 Mỗi lần đẩy thì **đổi `configRev`** sang giá trị mới.
 
 ## Lịch sử phiên bản
+- **1.5.1** — Bảng điều khiển (tab Luật chơi → Hướng dẫn trên màn hình): chỉnh thời gian đổi dòng hướng dẫn, bật/tắt dòng quà khi đang chơi.
 - **1.5.0** — Giao diện gọn: Top 3 một hàng ngang, đồng hồ kèm số tầng, thanh Hype mỏng, dải hướng dẫn 1 dòng tự xoay vòng, thẻ nhà vô địch nhỏ hơn.
 - **1.4.0** — Bảng điều khiển cập nhật nóng cùng game; app tự cập nhật phần lõi (`core-*.zip`). Từ bản app 1.4.0 trở đi mọi thứ tự cập nhật.
 - **1.3.0** — Icon quà tuỳ chỉnh (emoji hoặc ảnh), dùng ảnh quà thật của TikTok trong thông báo; thời gian chờ dài hơn (lobby 45s, cách chơi 10s, giới thiệu tầng 9s, qua tầng 4s, kết quả 12s) và chỉnh được; banner "Qua tầng".
