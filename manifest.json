@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "bundle": "game-1.1.0.zip",
-  "sha256": "78f5409bc4cd5f41fe5d8055b297c907266b6e1feeed32a749fd6d5b0a550e0f",
-  "notes": "Tháp 5 tầng (Hang Băng, Ngã Ba, Dung Nham, Rồng Lửa, Đấu Trường), cân bằng quà, giao diện tiếng Anh",
-  "date": "2026-10-21T11:00:09.312Z"
+  "version": "1.2.0",
+  "bundle": "game-1.2.0.zip",
+  "sha256": "d54e5d42025c2e11ebd5b61bdcfada37cc92a728e2a0d2936075bdf4173689e6",
+  "notes": "Hướng dẫn trực quan cho từng màn: cách tham gia, cách chơi, tặng quà được gì (vi/en)",
+  "date": "2026-10-22T02:40:17.534Z"
 }

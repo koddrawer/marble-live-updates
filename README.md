@@ -26,5 +26,6 @@ Sửa `manifest.json` ngay trên GitHub (biểu tượng bút chì) và giữ ng
 Mỗi lần đẩy thì **đổi `configRev`** sang giá trị mới.
 
 ## Lịch sử phiên bản
+- **1.2.0** — Hướng dẫn trực quan cho từng màn: bảng lật ở lobby (cách tham gia / quà được gì / các tầng), màn giới thiệu tầng có từng bước chơi, dải hướng dẫn 2 dòng khi chơi, dòng sát thương quà ở boss, nhắc comment ở màn kết quả.
 - **1.1.0** — Tháp 5 tầng (Hang Băng, Ngã Ba, Dung Nham Đuổi, Rồng Lửa, Đấu Trường), quà hồi sinh / Mưa Vàng / Thần Long, bi may mắn, hồn ma, MVP, boss tự cân bằng, giao diện tiếng Anh.
 - **1.0.0** — Bản đầu tiên.
