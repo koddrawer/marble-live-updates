@@ -1,9 +1,9 @@
 {
-  "version": "1.5.1",
-  "bundle": "game-1.5.1.zip",
-  "sha256": "a80b2e69a003371bdfd6f0a155983c9edc2c66133aadf24d4b1b0e304bf57619",
-  "notes": "Bảng điều khiển: chỉnh thời gian đổi dòng hướng dẫn, bật/tắt dòng quà khi đang chơi",
-  "date": "2026-10-22T07:50:21.577Z",
+  "version": "1.6.0",
+  "bundle": "game-1.6.0.zip",
+  "sha256": "9e0eb836b4641d5fd6e772046518098ebf8eb1a8bff60bdd09e9321a32021033",
+  "notes": "Bảng quà nổi: danh sách dọc, hiện mọi màn, kéo di chuyển và đổi kích thước",
+  "date": "2026-10-22T08:15:42.392Z",
   "app": {
     "version": "1.4.0",
     "core": "core-1.4.0.zip",
