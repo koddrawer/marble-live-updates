@@ -1,7 +1,13 @@
 {
   "version": "1.4.0",
   "bundle": "game-1.4.0.zip",
-  "sha256": "58f0ee656760e403449db3b233d9d0972c640fe69adaa80fd070c70373d44112",
+  "sha256": "3dab8d3c9921f89d40130f6e2ff90f62e76951792c1abd7558d8eb64c7a9252a",
   "notes": "Bảng điều khiển cập nhật nóng cùng game; app tự cập nhật phần lõi",
-  "date": "2026-10-22T03:40:49.199Z"
+  "date": "2026-10-22T03:41:58.520Z",
+  "app": {
+    "version": "1.4.0",
+    "core": "core-1.4.0.zip",
+    "sha256": "7612cedd1375183d74588a13e528ab323dabfe2c184e3de71c25a4f075a374bf",
+    "electron": "44.9.3"
+  }
 }
