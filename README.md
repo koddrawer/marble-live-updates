@@ -27,6 +27,7 @@ Sửa `manifest.json` ngay trên GitHub (biểu tượng bút chì) và giữ ng
 Mỗi lần đẩy thì **đổi `configRev`** sang giá trị mới.
 
 ## Lịch sử phiên bản
+- **1.7.0** — Giọng đọc hướng dẫn & bình luận tiếng Việt / tiếng Anh (giọng AI Edge, tự chuyển sang giọng Windows khi lỗi), tab Giọng đọc trong bảng điều khiển. Có cập nhật phần lõi (core-1.7.0.zip).
 - **1.6.0** — Bảng quà nổi trên game: danh sách dọc, hiện ở mọi màn, kéo di chuyển / kéo góc đổi kích thước (bật chế độ chỉnh trong tab Quà), chỉnh độ đậm, ẩn/hiện mô tả.
 - **1.5.1** — Bảng điều khiển (tab Luật chơi → Hướng dẫn trên màn hình): chỉnh thời gian đổi dòng hướng dẫn, bật/tắt dòng quà khi đang chơi.
 - **1.5.0** — Giao diện gọn: Top 3 một hàng ngang, đồng hồ kèm số tầng, thanh Hype mỏng, dải hướng dẫn 1 dòng tự xoay vòng, thẻ nhà vô địch nhỏ hơn.
